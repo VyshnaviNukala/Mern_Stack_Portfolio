@@ -1,0 +1,55 @@
+.nav ul{
+	list-style-type: none;
+	display: flex;
+
+}
+.nav ul li a{
+	text-decoration: none;
+}
+.b{
+	margin-left: 500px;
+	font-size: 20px;
+	
+}
+.c{
+	margin-left: 200px;
+	font-size: 20px;
+}
+.d{
+	margin-left: 200px;
+	font-size: 20px;
+}
+.e{
+	margin-left: 200px;
+	font-size: 20px;
+}
+body{
+	background-image:url(rrr.png);
+}
+.aa{
+	text-align: center;
+	margin-top: 120px;
+	font-family:sans-serif;
+	font-size: 20px;
+  
+}
+.bb{
+	margin-top: 100px;
+}
+.active{
+	color: lightblue;
+}
+a:hover{
+	background:skyblue;
+}
+.cc{
+	font-family: serif;
+	margin-left:200px;
+	margin-top: 100px;
+	color: darkgray;
+	
+}
+img{
+	margin-top: 133px;
+}
+
